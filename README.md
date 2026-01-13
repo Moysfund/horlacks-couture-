@@ -67,8 +67,8 @@ src/
 
 1. Clone the repo
    `bash
-   git clone https://github.com/yourusername/horlaks-couture.git
-   cd horlaks-couture
+   git clone https://github.com/Moysfund/horlacks-couture.git
+   cd horlacks-couture
    `
 
 2. Install dependencies
